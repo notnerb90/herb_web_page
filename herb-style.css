@@ -43,6 +43,7 @@ li a:hover {
     transform: scale(1.1);
     box-shadow: 3px 3px 5px rgb(28, 25, 61);
     text-shadow: 3px 3px 3px rgb(37, 37, 37);
+    transition: all 0.25s;
 }
 .creeping-img {
     margin-left: 20%;
